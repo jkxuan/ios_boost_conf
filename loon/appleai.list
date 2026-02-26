@@ -5,5 +5,5 @@
 # DOMAIN-SUFFIX,apple-relay.cloudflare.com
 # DOMAIN-SUFFIX,guzzoni.apple.com
 
-DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN,apple-relay.apple.com
 
